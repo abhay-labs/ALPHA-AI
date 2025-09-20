@@ -1,0 +1,56 @@
+Copyright (c) 2025 Abhay Jaiswal  
+All Rights Reserved.  
+
+Project: ALPHA (Smart AI Assistant)  
+
+=========================
+0. Introduction
+=========================
+The ALPHA project is an Smart AI assistant designed and developed by Abhay Jaiswal.  
+This license governs the use, distribution, and modification of ALPHA and all related files.  
+By accessing or using this project, you agree to the terms and conditions outlined below.
+
+=========================
+1. Ownership
+=========================
+This software and all associated documentation files (the " ALPHA Software") are the exclusive intellectual property of Abhay Jaiswal.  
+The Software is protected under applicable copyright and intellectual property laws. 
+
+Unique Project Token: ALPHA-SEC-2025-ABJ-UNQ-9173X
+This token is included for identification and anti-plagiarism purposes. Any occurrence of this token in unauthorized repositories or publications will be treated as evidence of copyright infringement.
+
+
+=========================
+2. Permissions
+=========================
+- The Software may be viewed and studied for personal learning purposes only.  
+- Any other usage requires prior written consent from the author.  
+- For collaboration, research, or licensing, explicit approval must be obtained.  
+
+=========================
+3. Restrictions
+=========================
+Without prior written permission, you are strictly prohibited from:  
+- Copying or redistributing the Software, in whole or in part  
+- Modifying, altering, or creating derivative works  
+- Using the Software for academic submissions, commercial products, or research publications  
+- Publishing or distributing the Software on any public or private platform  
+
+=========================
+4. Liability
+=========================
+The Software is provided "AS IS" without warranty of any kind, either express or implied.  
+The author shall not be held liable for any damages arising from the use or misuse of this Software.  
+
+=========================
+5. Enforcement
+=========================
+Any violation of these terms will be considered an infringement of intellectual property rights.  
+The author reserves the right to pursue legal action, including but not limited to DMCA takedown requests, removal of unauthorized copies, and further legal remedies.  
+
+=========================
+6. Contact
+=========================
+For permissions, licensing, or collaboration inquiries, please contact:  
+📧 Email: smart.abhayjaiswal2003@gmail.com 
+👉 Phone no. : +91 9336870236
