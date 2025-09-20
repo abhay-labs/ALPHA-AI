@@ -3,7 +3,7 @@
 Thank you for considering contributing to ALPHA! Your contributions help make this project better for everyone.
 
 ---
-
+ 
 ## How to Submit Issues / Pull Requests
 
 1. **Issues**  
