@@ -5,7 +5,7 @@ It is built for developers, tech enthusiasts, and businesses who want a modular,
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🎙️ Control via **Voice & Typing**
 - 📞 Make Phone Calls via Mobile (Android)
