@@ -1,5 +1,5 @@
 # Security Policy for ALPHA
-
+ 
 ## Reporting a Vulnerability
 If you discover a security issue in ALPHA, please **report it privately** by emailing:  
 
