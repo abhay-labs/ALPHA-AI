@@ -5,7 +5,7 @@ Project: ALPHA (Smart AI Assistant)
 
 =========================
 0. Introduction
-=========================
+========================= 
 The ALPHA project is an Smart AI assistant designed and developed by Abhay Jaiswal.  
 This license governs the use, distribution, and modification of ALPHA and all related files.  
 By accessing or using this project, you agree to the terms and conditions outlined below.
