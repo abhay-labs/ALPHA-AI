@@ -31,7 +31,6 @@ def extract_yt_term(command):
     return None
 
 
-
 def remove_words(input_string, words_to_remove):
     # Split the input string into words
     words = input_string.split()
