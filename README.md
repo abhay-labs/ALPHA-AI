@@ -5,8 +5,8 @@ It is built for developers, tech enthusiasts, and businesses who want a modular,
 
 ---
 
-##  Project Demo
-![Demo Video] (www/assets/ezgif-2462a945892776.gif)
+## 🎥 Project Demo
+![Demo](www/assets/ezgif-2462a945892776.gif)
 
 ## ✨ Features 
 
