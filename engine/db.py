@@ -68,7 +68,6 @@ cursor = con.cursor()
 
 
 
-
 #### 4. Insert Single contacts (Optional)
 # query = "INSERT INTO contacts VALUES (null,'sakshi', '6387191605', 'null')"
 # cursor.execute(query)
