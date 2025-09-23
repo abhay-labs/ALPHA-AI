@@ -58,7 +58,7 @@ It is built for developers, tech enthusiasts, and businesses who want a modular,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your_username/ALPHA.git
+git clone https://github.com/abhay-labs/ALPHA-AI.gitt
 cd ALPHA
 ```
 
@@ -79,7 +79,7 @@ npm install
 ### 4. Run ALPHA
 ```bash
 # Python
-python main.py
+python run.py
 
 # Node.js
 npm start
