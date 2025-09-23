@@ -59,7 +59,6 @@ It is built for developers, tech enthusiasts, and businesses who want a modular,
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/abhay-labs/ALPHA-AI.gitt
-cd ALPHA
 ```
 
 ### 2. Install Dependencies
